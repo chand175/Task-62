@@ -25,3 +25,4 @@ heading1.addEventListener('click', () => { // using class name styling the para
     para.style.cssText = " color:blue ; font-size:50px "
 })
 
+heading.remove('h1');
